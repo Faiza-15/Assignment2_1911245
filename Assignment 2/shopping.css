@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    background-color: rgb(249, 243, 244);
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(318, 92%, 30%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-left: 200%;
+}
+.navbar a:hover{
+    background-color: hsl(296, 82%, 78%);
+    width: 90%;
+}
+.navbar li{
+    float: left;
+    margin-left: 10%;
+
+}
+
+
+#whole{
+    background-color: rgb(245, 109, 231);
+
+}
+.second{
+    display: flex;
+    margin-top: 5%;
+    font-size: x-large;
+    background-color: rgb(245, 200, 233);
+}
+
+
+.box1{
+    margin-left: 10%;
+    height: 50px;
+}
+
+.box2{
+    margin-left: 10%;
+    height: 50px;
+}
+
+
